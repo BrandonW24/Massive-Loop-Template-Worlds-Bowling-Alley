@@ -11,6 +11,7 @@ To help creators get started quickly, Massive Loop offers a suite of ready-to-us
 Please Navigate to the package manager and ensure that the following two Unity packages, these are dependents :
 * Post Processing
 * ShaderGraphs
+* TextMeshPro
 
 Please also make sure that your editor is using the Built-In Renderer.
 
