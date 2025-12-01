@@ -49,6 +49,8 @@ The game features a fully-realized virtual bowling alley with:
   * Automatic pin resetting
   * Ball return functionality
   * Player turn queue system
+ 
+* Music Visualizer & Player Jukebox
 
 
 ## Seeing Pink Textures? No worries!
