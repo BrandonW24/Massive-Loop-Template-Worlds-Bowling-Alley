@@ -15,6 +15,42 @@ Please Navigate to the package manager and ensure that the following two Unity p
 
 Please also make sure that your editor is using the Built-In Renderer.
 
+
+## Environment & Gameplay
+The game features a fully-realized virtual bowling alley with:
+
+* Physics-based bowling ball mechanics with realistic rolling, bouncing, and pin collisions
+* A complete set of 10 pins that detect knockovers with precision
+* Visual trajectory prediction for aiming throws
+* Customizable ball colors and materials
+* Dynamic score tracking with realtime synchronized leaderboards and player scoring
+   
+## Key Gameplay Mechanics
+* VR Throwing: Natural throwing mechanics with velocity tracking and angle compensation
+* Desktop Charging: Power meter for precise desktop throws
+* Ball Customization: Resize the ball with two-handed grabs and choose from 12 team colors
+* Pin Physics: Advanced knockover detection using multiple thresholds (angle, velocity, position)
+* Turn Management: Automated player rotation with frame tracking (up to 10 frames per player)
+* Example usage of how to utilize our MLCLickable SDK component with custom C# scripting
+
+## Features
+* Cross-Platform Multiplayer: Seamless gameplay across VR and desktop platforms
+* Physics-Based Bowling: Realistic ball and pin physics with proper mass and forces
+* Dynamic Scoring System: Automatic pin detection and score tracking with frame-by-frame progression
+* Visual Feedback:
+  * Trajectory prediction line
+  * Power meter for charged throws
+  * Player-colored ball trails
+* Pin knockover sound effects
+* Ball Customization:
+  * Real-time resizing (two-handed grab to scale)
+  * 12 color options with matching materials
+* Game Management:
+  * Automatic pin resetting
+  * Ball return functionality
+  * Player turn queue system
+
+
 ## Seeing Pink Textures? No worries!
 Sometimes, when exporting shadergraphs from the Unity Editor, shadergraphs can sometimes lose their active target locations. 
 
