@@ -1,6 +1,7 @@
 # Massive-Loop-Template-Worlds-Bowling-Alley
 Template Game World for creators in Massive Loop
 
+![BowlingAlley](BowlingAlleyGif.gif)
 
 ## Unity Editor Requirements
 Please Navigate to the package manager and ensure that the following two Unity packages, these are dependents :
