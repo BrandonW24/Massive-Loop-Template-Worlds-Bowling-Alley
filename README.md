@@ -77,6 +77,20 @@ Times Square will be restored to its glory, all thanks to you and the handy Shad
 ![Shaders](Shaders.png)
 *(Looks like I missed a couple billboards!)*
 
+## Custom Shadergraphs not working correctly in VR? We've got you!
+First, open your package manager window, and click on the plus icon in the top left corner. From there, you'll want to click on "add a package from git URL"
+
+<img width="484" height="559" alt="ShaderGraph_Help_1" src="https://github.com/user-attachments/assets/6c325750-a80c-473d-8bf0-9a5b88d5ee6d" />
+
+Then paste the following git URL into that bar :
+https://github.com/z3y/ShaderGraphVRC.git
+
+
+Lastly, you'll want to update your target to utilize the new Built-In target.
+
+<img width="1060" height="647" alt="ShaderGraph_Help_2" src="https://github.com/user-attachments/assets/ccae89b3-53b8-4a4e-9b3a-e383b4dc198c" />
+
+With that you should be all set to go!
 
 ## Setting Up Your Massive Loop World
 
